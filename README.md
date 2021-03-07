@@ -8,3 +8,5 @@ git add .
 git commit -m 
 git push origin main or
 git push -f -u origin main (when github repo inicialized with file)
+
+Adding HTML semantic
